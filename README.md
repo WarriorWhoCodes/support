@@ -41,7 +41,7 @@ Please check out the [issue queue](https://github.com/CodeVisors/support/issues)
 	 
 	 - Showcase of Open Source Portfolios to get feedback from community members.
     
-      Feel free to check out other cool repositories of EddieHub 
+      Feel free to check out other cool repositories of CodeVisors 
       <a href='https://github.com/CodeVisors'>here</a>.
 
 ## FAQ
