@@ -67,8 +67,8 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 
 ## Socials
 
-Join our Discord community: <a  href="https://discord.gg/uX5jJMknfJ"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+Join our Discord Community: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=round-square&logo=discord&logoColor=white)](https://discord.gg/uX5jJMknfJ)
 
-Subscribe our YouTube channel: <a  href="https://www.youtube.com/techxtreme" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+Subscribe our YouTube Channel: [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=round-square&logo=YouTube&logoColor=white)](https://www.youtube.com/techxtreme)
 
 
