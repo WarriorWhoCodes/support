@@ -24,7 +24,7 @@ Please invite me to the GitHub Community Organisation.
 
 - #### Discord Username(if exists):
 
-<!--https://discord.gg/QW3zXaw4 (link to our discord server)-->
+<!--https://discord.com/invite/47vQN9Z3XB (link to our discord server)-->
 
 <!--What do you like about this community/ why do you want to join-->
 
