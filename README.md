@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![Discord](https://img.shields.io/discord/838554451362578452)](https://discord.gg/uX5jJMknfJ)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Raise an [issue to join the CodeVisors GitHub organisation](https://github.com/CodeVisors/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+Raise an issue to join the CodeVisors GitHub organisation. [Instructions here](https://github.com/CodeVisors/support#guide).
 
 ### Some vague idea of how we could turn this into a support channel.
 
